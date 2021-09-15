@@ -18,6 +18,12 @@
                             <view contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="nDU-hM-Wat">
                                 <rect key="frame" x="20" y="202" width="374" height="505"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <subviews>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="IMG_4487" translatesAutoresizingMaskIntoConstraints="NO" id="KgX-Y8-wRb">
+                                        <rect key="frame" x="8" y="17" width="358" height="466"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    </imageView>
+                                </subviews>
                                 <color key="backgroundColor" red="1" green="0.7217829888408509" blue="0.18773115053123413" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             </view>
                         </subviews>
@@ -30,4 +36,7 @@
             <point key="canvasLocation" x="115.94202898550725" y="116.51785714285714"/>
         </scene>
     </scenes>
+    <resources>
+        <image name="IMG_4487" width="3024" height="4032"/>
+    </resources>
 </document>
